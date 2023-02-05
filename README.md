@@ -27,6 +27,12 @@ implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
 Java and Android Studio
 
+## Features
+
+-Browse news in different category
+-Web View allows you to read complete articles
+-Search news on any topic
+
 
 
 
