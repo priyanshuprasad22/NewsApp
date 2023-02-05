@@ -30,7 +30,9 @@ Java and Android Studio
 ## Features
 
 -Browse news in different category
--Web View allows you to read complete articles
+
+-Web View allows you to read complete articles.
+
 -Search news on any topic
 
 
