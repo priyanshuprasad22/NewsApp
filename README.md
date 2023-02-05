@@ -15,6 +15,17 @@ A News App built using Retrofit Library that calls API from newsapi.org. The app
 ![Screenshot_20230205_202321](https://user-images.githubusercontent.com/111646262/216838600-1d32a8e1-84e8-46a3-aefc-99e42523b191.jpg)
 ![Screenshot_20230205_202321](https://user-images.githubusercontent.com/111646262/216838627-6e6f214e-a1fa-40a3-9748-2eeb74f8c4de.jpg)
 
+## Dependencies
+
+implementation 'com.squareup.picasso:picasso:2.8'
+
+implementation  'com.squareup.retrofit2:retrofit:2.9.0'
+
+implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+## Tech
+
+Java and Android Studio
 
 
 
